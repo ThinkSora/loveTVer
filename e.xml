@@ -18000,6 +18000,12 @@
 	<programme channel="咪咕综合体育" start="20260701223000 +0800" stop="20260701223500 +0800">
 		<title lang="zh">世界杯宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260701223500 +0800" stop="20260701230000 +0800">
+		<title lang="zh">睛彩世界杯</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260701230000 +0800" stop="20260701000000 +0800">
+		<title lang="zh">2026美加墨世界杯 1/16决赛 英格兰-刚果（金） 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59871,6 +59877,12 @@
 	<programme channel="newtv超级综艺" start="20260701204600 +0800" stop="20260701224400 +0800">
 		<title lang="zh">开播吧！国潮</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260701224400 +0800" stop="20260701233300 +0800">
+		<title lang="zh">03_启航：当风起时</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260701233300 +0800" stop="20260701001800 +0800">
+		<title lang="zh">04_启航：当风起时</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59954,6 +59966,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260701213600 +0800" stop="20260701232900 +0800">
 		<title lang="zh">无人区</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260701232900 +0800" stop="20260701010500 +0800">
+		<title lang="zh">虎胆杀机</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60050,6 +60065,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260701220800 +0800" stop="20260701225400 +0800">
 		<title lang="zh">22_家事法庭</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260701225400 +0800" stop="20260701233900 +0800">
+		<title lang="zh">23_家事法庭</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60701,6 +60719,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260701223400 +0800" stop="20260701230900 +0800">
 		<title lang="zh">蒙元巴图软骨素透骨保健贴-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260701230900 +0800" stop="20260701235500 +0800">
+		<title lang="zh">16_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
