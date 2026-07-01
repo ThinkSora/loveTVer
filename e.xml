@@ -16719,6 +16719,12 @@
 	<programme channel="咪咕足球" start="20260702040500 +0800" stop="20260702044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代01 屏障</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260702044000 +0800" stop="20260702045000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260702045000 +0800" stop="20260702062000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第13轮 上海浦发银行-东莞新彤盛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50664,6 +50670,9 @@
 	<programme channel="newtv超级电视剧" start="20260702035400 +0800" stop="20260702043900 +0800">
 		<title lang="zh">15_东山学堂</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260702043900 +0800" stop="20260702052400 +0800">
+		<title lang="zh">16_东山学堂</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51230,6 +51239,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260702035100 +0800" stop="20260702043500 +0800">
 		<title lang="zh">19_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260702043500 +0800" stop="20260702051500 +0800">
+		<title lang="zh">芪缘固阳有机黄芪片-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
